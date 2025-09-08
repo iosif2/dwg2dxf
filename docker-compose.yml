@@ -1,0 +1,9 @@
+services:
+  dwg2dxf-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dwg2dxf-api
+    image: dwg2dxf-api:latest
+    ports:
+      - 3000:3000

@@ -1,0 +1,5 @@
+libredwg/
+bin/
+target/
+*.dwg
+*.dxf

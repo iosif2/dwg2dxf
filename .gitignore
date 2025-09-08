@@ -1,0 +1,4 @@
+target/
+libredwg/
+*.dwg
+*.dxf
